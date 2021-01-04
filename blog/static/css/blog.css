@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+}
+#content{
+    background-color: rgb(222, 248, 200);
+}
+#sidebar{
+    
+    display: block;
+    float: right;
+}
